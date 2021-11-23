@@ -1,3 +1,5 @@
+https://github.com/MoradAlkhatib/drf-auth/pull/1
+
 Tasks and Requirements
 Features - Django
 Add JWT Authentication to your API.
