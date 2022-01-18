@@ -1,4 +1,4 @@
-https://github.com/MoradAlkhatib/drf-auth/pull/1
+
 
 Tasks and Requirements
 Features - Django
@@ -17,3 +17,4 @@ Storage Options
 Your choice of SQLite or PostgreSQL
 Adjust docker-compose.yml so that data is persisted in a volume outside of container.
 These steps are different depending on whether SQLite or PostgreSQL is being used.
+
